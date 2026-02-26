@@ -21,8 +21,8 @@ app.use(cors({
     const allowedOrigins = [
       'http://localhost:3000',
       'http://localhost:5173',
-      'https://eventbackend-blond.vercel.app',
-      'https://eventmanagementfrontend-orcin.vercel.app',
+      'https://ems-backend-eight-dusky.vercel.app',
+      'https://ems-backend-xx3c.vercel.app'
     ];
     
     // Allow all Vercel deployments
